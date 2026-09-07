@@ -1,1 +1,1 @@
-print("Subhajt Mondal")
+print("Subhajt Mondal", "My age is 21") 
