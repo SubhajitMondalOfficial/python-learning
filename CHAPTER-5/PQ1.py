@@ -37,5 +37,5 @@ while i < len(nums):
     if(nums[i] == x):
         print("FOUND at index", i)
     else:
-        print("Finding...")
+        print("Finding....")
     i += 1
