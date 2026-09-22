@@ -4,7 +4,7 @@ idx = 0
 
 for val in nums:
     if(val == x):
-        print("x ffound at index: ", idx)
+        print("x ffound at index : ", idx)
     else:
         print("funding...")
     idx += 1
