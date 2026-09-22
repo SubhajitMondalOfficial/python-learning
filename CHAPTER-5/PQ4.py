@@ -6,7 +6,7 @@
 
 # print("Total summ = ",sum)
 
-#while loop version
+#while loop versionn
 
 # n = 5
 # sum = 0
