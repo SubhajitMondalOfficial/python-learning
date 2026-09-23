@@ -1,4 +1,4 @@
-f = open("demo.txt", "rt")
+f = open("demo.txt", "rt")  #read
 # data = f.read(5)
 line1 = f.readline()
 print(line1)
