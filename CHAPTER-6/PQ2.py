@@ -8,7 +8,7 @@ def factorialOfNum(n):
 factorialOfNum(5)
 
 
-#USD to INR
+#USD TO INR
 
 def CurrencyConverter(amount):
     convert = amount * 94.8
