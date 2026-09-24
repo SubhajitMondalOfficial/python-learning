@@ -6,6 +6,6 @@ def printList(list):
     for item in list:
         print(item, end=" ")
 
-numbers = [10, 20, 30, 40, 50]
+numbers = [10, 20, 30, 40, 50, 60]
 LenList(numbers)
 printList(numbers)
