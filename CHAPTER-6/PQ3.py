@@ -3,5 +3,4 @@ def sum(n):
         return 0
     return sum(n - 1) + n
 
-# Print sum
 print(sum(10))
