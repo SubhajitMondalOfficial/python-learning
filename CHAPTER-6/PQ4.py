@@ -4,5 +4,5 @@ def print_list(list, idx):
     print(list[idx])
     print_list(list, idx+1)
 
-# Print 
+# Printt
 print([1, 2, 3, 4, 5])
